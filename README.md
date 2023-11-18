@@ -2,7 +2,7 @@
 ## NAME: P.LOKNAATH
 ## REFERENCE NUMBER: 23004546
 ## AIM:
-Create a Django webpage with five user profiles. Two users are to be staff users (including admin) and the other three users are non-staff users.
+Create a Django models with five user profiles object.
 
 ## Design Procedure:
 Step 1:
@@ -27,4 +27,11 @@ Step 7:
 Enter the given credentials to sign in into django server.
 
 Step 8:
-Add some user profiles according to the aim.
+Add some user profiles object according to the aim.
+
+## Output:
+![Exp-4 models](https://github.com/Loknaath-sec/ODD2023-WT-Ex-04-Django-Models/assets/145742558/b5c96d36-6962-4139-b347-48617b293bc4)
+
+## Result :
+Hence,the given task is executed successfully.
+
