@@ -1,6 +1,6 @@
 # Ex 04-Django Models
-## NAME: P.LOKNAATH
-## REFERENCE NUMBER: 23004546
+## NAME: Bhuvanesh S R
+## REFERENCE NUMBER: 23013380
 ## AIM:
 Create a Django models with five user profiles object.
 
@@ -30,7 +30,8 @@ Step 8:
 Add some user profiles object according to the aim.
 
 ## Output:
-![Exp-4 models](https://github.com/Loknaath-sec/ODD2023-WT-Ex-04-Django-Models/assets/145742558/b5c96d36-6962-4139-b347-48617b293bc4)
+![exp 4 web SS](https://github.com/Bhuvanesh-Suresh/ODD2023-WT-Ex-04-Django-Models/assets/145742661/c4d4770a-68da-49e3-ad98-ff22c8e12952)
+
 
 ## Result :
 Hence,the given task is executed successfully.
