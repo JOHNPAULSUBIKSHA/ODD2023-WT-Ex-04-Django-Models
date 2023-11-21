@@ -1,6 +1,6 @@
 # Ex 04-Django Models
-## NAME: Bhuvanesh S R
-## REFERENCE NUMBER: 23013380
+## NAME: Johnpaul.J
+## REFERENCE NUMBER: 23011778
 ## AIM:
 Create a Django models with five user profiles object.
 
